@@ -25,5 +25,14 @@ const foodDatabase = [
         "carbs": 4.9,
         "fiber": 0,
         "price": 0.16
+    },
+    {
+        "name": "Banana",
+        "category": "Solid",
+        "kcal": 399,
+        "pro": 1.4,
+        "carbs": 19.9,
+        "fiber": 2.2,
+        "price": 0.45
     }
 ];
